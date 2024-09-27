@@ -163,3 +163,12 @@ cout<< "Looking forward to the Weekend";
 ```
 
 OUTPUTs:
+## OUTPUT
+### 1.
+![cds 1](https://github.com/user-attachments/assets/3276cba9-638e-4b7c-b942-12b07813db93)
+### 2.
+![cds 4](https://github.com/user-attachments/assets/32ce732c-4cf8-4f64-919b-58f7d0ec20d3)
+### 3.
+![cds 3](https://github.com/user-attachments/assets/383ed45c-78f7-4a7a-97d0-5aa7144efa8f)
+### 4.
+![cds 2](https://github.com/user-attachments/assets/8132069c-8fb5-4820-a9fb-08f44496aac1)
